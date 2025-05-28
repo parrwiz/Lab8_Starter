@@ -4,7 +4,7 @@
 * Parwiz Khan
 
 ## GitHub Pages Deployment
-
+https://parrwiz.github.io/Lab8_Starter/
 
 ---
 
